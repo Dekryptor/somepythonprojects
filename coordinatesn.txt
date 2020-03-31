@@ -1,0 +1,81 @@
+721 558 749 621 shaft.move?
+846 229 915 314 drunk.cash?
+846 229 915 314 drunk.cash?
+576 542 610 626 kid.school?l
+945 295 963 320 businesslady.hello?
+1003 310 1034 333 phone.call?
+524 377 578 423 doggirl.cafe?
+616 335 645 402 postman.help?
+480 531 516 557 drugdealer.police?
+1002 304 1010 326 phone.call?
+849 230 874 301 drunk.cash?
+790 421 826 502 cofee
+748 484 779 509 newcar.rob?
+782 550 827 573 skater.robphone?
+983 311 1022 336 punk.rob?
+984 361 1003 409 businessman.rob?
+895 270 923 298 mother.help?
+894 541 853 473 http://iordanbalt.rf.gd/counter.php
+846 543 756 520 http://bgmafia.com/map/10~4/newcar.rob?z=dZW
+651 603 636 584 http://bgmafia.com/map/10~4/taxi.rob?z=dZW
+724 601 747 665 http://bgmafia.com/map//shaft.move?z=P1I
+846 269 867 339 http://bgmafia.com/map//drunk.cash?z=P1I
+846 269 867 339 http://bgmafia.com/map//drunk.cash?z=P1I
+945 339 964 361 http://bgmafia.com/map//businesslady.hello?z=P1I
+613 376 645 444 http://bgmafia.com/map//postman.help?z=P1I
+573 584 605 666 http://bgmafia.com/map//kid.school?z=P1I
+700 570 716 597 http://bgmafia.com/map//doggie.help?z=P1I
+478 574 508 596 http://bgmafia.com/map//drugdealer.police?z=P1I
+1002 343 1019 368 http://bgmafia.com/map//phone.call?z=P1I528 421 561 469 http://bgmafia.com/map//doggirl.cafe?z=JaH
+475 578 504 604 http://bgmafia.com/map/-2~4/drugdealer.police?z=oGt
+1044 373 1054 407 http://bgmafia.com/map/-2~4/cop.donut?z=zlj
+715 324 749 371 http://bgmafia.com/map/-12~-6/hookers.rob?z=9KZ
+
+------
+
+705 720 720 796 http://bgmafia.com/map/4~1/shaft.move?z=FlV
+855 315 874 408 http://bgmafia.com/map/4~1/drunk.cash?z=6Qu
+855 315 874 408 http://bgmafia.com/map/4~1/drunk.cash?z=6Qu
+986 393 1005 423 http://bgmafia.com/map/4~1/businesslady.hello?z=5GK
+570 449 596 531 http://bgmafia.com/map/4~1/postman.help?z=5GK
+517 702 574 809 http://bgmafia.com/map/4~1/kid.school?z=jRJ
+687 686 737 723 http://bgmafia.com/map/4~1/doggie.help?z=okG
+1051 409 1067 435 http://bgmafia.com/map/4~1/phone.call?z=FYq
+1108 445 1127 487 http://bgmafia.com/map/4~1/cop.give?z=Rji
+399 691 460 718 http://bgmafia.com/map/4~1/drugdealer.police?z=uMw
+
+685 643 700 667
+399 646 453 675
+516 661 558 773
+707 681 747 771
+854 272 902 355
+854 272 902 355
+985 351 1005 378
+566 407 596 485
+1050 372 1076 406
+1099 410 1118 453
+1099 410 1118 453
+1142 262 1142 262
+1142 262 1142 262
+749 585 775 613
+678 642 693 670
+678 642 693 670
+657 535 693 670
+657 535 693 670
+
+
+707 566 717 594
+479 577 496 604
+574 584 616 672
+719 600 735 663
+846 275 874 342
+846 275 874 342
+946 333 978 414
+611 377 632 443
+998 345 1010 369
+1039 383 1053 416
+1039 383 1053 416
+
+
+1071 266 1073 267
+946 338 952 362
